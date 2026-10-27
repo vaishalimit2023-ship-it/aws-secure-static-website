@@ -65,3 +65,12 @@ Amazon S3, Amazon CloudFront, Origin Access Control, HTTPS, HTML, CSS and cloud 
 ## Disclaimer
 
 This is a learning and portfolio project. AWS resource usage may incur charges depending on configuration and usage. Review AWS pricing and remove resources that are no longer needed.
+
+##  Documentation
+
+- [Architecture Documentation](docs/architecture.md)
+- [Security Testing Documentation](docs/security-testing.md)
+
+##  Live Website
+
+[View MyCloud Portfolio](https://d1e7a1wc0lszas.cloudfront.net)
